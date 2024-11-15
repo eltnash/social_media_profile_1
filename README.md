@@ -1,10 +1,5 @@
 # social_media_profile_1
-Building a Clean, Responsive Social Media Profile Card with HTML &amp; CSS
-
-
-
-Frontend Mentor - Social Links Profile Solution
-This is a solution to the Social links profile challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Building a Clean, Responsive Social Media Profile Card with HTML & CSS
 
 Table of contents
 Overview
@@ -54,7 +49,9 @@ Live Site URL: Add live site URL here
 
 
 ## My process
+
 ### Built with
+
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -81,12 +78,22 @@ Moving forward, I want to deepen my understanding of:
 
 Advanced CSS Techniques: Learning more about responsive units like vw/vh and experimenting with CSS animations.
 JavaScript Integration: For future projects, I plan to add more interactive functionality with JavaScript to enhance user experience.
-Useful resources
+
+### Useful resources
+
 CSS Tricks: A Complete Guide to Flexbox - This guide was essential in helping me understand Flexbox properties and how to apply them in a responsive layout.
 MDN Web Docs: Responsive Web Design Basics - A foundational resource that guided my understanding of responsive principles and best practices.
-Author
+
+### Author
 
 linkedin - www.linkedin.com/in/elvisdzvimbo2a313763
 Frontend Mentor - @eltnash
 Twitter - @@eltnash92
+
+### Acknowledements
+
+Frontend Mentor - Social Links Profile Solution
+This is a solution to the Social links profile challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+
 
